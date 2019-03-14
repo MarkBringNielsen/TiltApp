@@ -1,0 +1,12 @@
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\bin\Debug\netstandard2.0\TiltApp.deps.json
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\bin\Debug\netstandard2.0\TiltApp.dll
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\bin\Debug\netstandard2.0\TiltApp.pdb
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.csprojAssemblyReference.cache
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.csproj.CoreCompileInputs.cache
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.AssemblyInfoInputs.cache
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.AssemblyInfo.cs
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.dll
+C:\Users\Markb\source\repos\TiltApp\TiltApp\TiltApp\obj\Debug\netstandard2.0\TiltApp.pdb
